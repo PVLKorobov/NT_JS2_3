@@ -1,0 +1,19 @@
+{
+  "name": "@pvlkorobov/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/PVLKorobov/NT_JS2_3#readme",
+  "bugs": {
+    "url": "https://github.com/PVLKorobov/NT_JS2_3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PVLKorobov/NT_JS2_3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
